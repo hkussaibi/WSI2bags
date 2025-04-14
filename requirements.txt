@@ -1,0 +1,8 @@
+openslide-python
+opencv-python
+numpy
+torch
+torchvision
+transformers
+tqdm
+Pillow
