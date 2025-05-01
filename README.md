@@ -31,3 +31,21 @@ python scripts/prepare_bags.py.
 Example Notebook
 
 Check notebooks/example_usage.ipynb for an interactive example.
+
+### Citation
+
+If you use this code or methodology in your research, please cite the following:
+
+```bibtex
+@article {Coming Soon,
+	author = {Kussaibi, Haitham},
+	title = {LiteMIL: A Computationally Efficient Transformer-Based MIL for Cancer Subtyping on Whole Slide Images.},
+	elocation-id = {},
+	year = {2025},
+	doi = {},
+	publisher = {},
+	URL = {},
+	eprint = {},
+	journal = {}
+}
+```
