@@ -37,15 +37,13 @@ Check notebooks/example_usage.ipynb for an interactive example.
 If you use this code or methodology in your research, please cite the following:
 
 ```bibtex
-@article {Coming Soon,
+@article {Kussaibi2025.05.11.25327389,
 	author = {Kussaibi, Haitham},
 	title = {LiteMIL: A Computationally Efficient Transformer-Based MIL for Cancer Subtyping on Whole Slide Images.},
-	elocation-id = {},
+	elocation-id = {2025.05.11.25327389},
 	year = {2025},
-	doi = {},
-	publisher = {},
-	URL = {},
-	eprint = {},
-	journal = {}
-}
-```
+	doi = {10.1101/2025.05.11.25327389},
+	publisher = {Cold Spring Harbor Laboratory Press},
+	URL = {https://www.medrxiv.org/content/early/2025/05/12/2025.05.11.25327389},
+	journal = {medRxiv}
+}```
